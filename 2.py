@@ -4,3 +4,7 @@ def avg(*args):
 
 def error():
     raise
+
+
+def zero():
+    return 0
